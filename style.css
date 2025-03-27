@@ -1,0 +1,42 @@
+.wwe{
+    width: 1400px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+    list-style: none;
+}
+.q{
+    container: 100px;
+    width: 550px;
+    height: 452px;
+    background-color: rgb(235, 0, 0);
+    margin-left: 90px;
+}
+.r{
+    padding: 200px;
+}
+.l{
+    container: 100px;
+    width: 550px;
+    height: 452px;
+    background-color: rgb(235, 0, 0);
+    /* margin-right: 90px; */
+    margin-left: 900px;
+    display: flex;
+    justify-content: space-evenly;  
+    list-style: none;
+}
+.mma{
+    text-align: center;
+}
+.ppp{
+    text-align: center;
+}
+.r{
+    text-align: center;
+}
+.vv{width: 1400px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+    list-style: none;}
